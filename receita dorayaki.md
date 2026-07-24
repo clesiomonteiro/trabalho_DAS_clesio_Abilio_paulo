@@ -1,0 +1,44 @@
+# Dorayaki
+
+Doce japonês feito de dois discos fofinhos, parecidos com panqueca, recheados com pasta de feijão azuki (anko).
+
+**Tempo de preparo:** 20 minutos  
+**Tempo de cozimento:** 15 minutos  
+**Rendimento:** 6 a 8 dorayakis  
+**Dificuldade:** Fácil
+
+## Ingredientes
+
+### Massa
+- 4 ovos
+- 3/4 xícara (chá) de açúcar
+- 3 colheres (sopa) de mel
+- 1 xícara (chá) de farinha de trigo
+- 1 colher (chá) de fermento em pó
+- 3 colheres (sopa) de água morna
+- Óleo para untar a frigideira
+
+### Recheio
+- 300g de pasta de feijão azuki (anko) — pode ser comprada pronta ou feita em casa
+- Alternativa: doce de leite ou creme de avelã, para quem não encontrar anko
+
+## Modo de preparo
+
+1. Em uma tigela, bata os ovos com o açúcar e o mel até obter uma mistura clara e levemente espumosa.
+2. Peneire a farinha e o fermento por cima e misture delicadamente até incorporar, sem bater demais (para não perder o ar).
+3. Adicione a água morna aos poucos, mexendo, até obter uma massa lisa e um pouco espessa, parecida com massa de panqueca grossa.
+4. Deixe a massa descansar por 15-20 minutos em temperatura ambiente — isso ajuda os discos a ficarem mais macios.
+5. Aqueça uma frigideira antiaderente em fogo baixo e unte levemente com óleo (retire o excesso com papel toalha).
+6. Despeje uma concha pequena de massa na frigideira, formando um disco de cerca de 8-9 cm.
+7. Cozinhe até aparecerem bolhinhas na superfície e as bordas ficarem firmes (cerca de 1-2 minutos), então vire e cozinhe o outro lado por mais 1 minuto.
+8. Repita até usar toda a massa, empilhando os discos prontos cobertos com um pano para não ressecarem.
+9. Deixe os discos esfriarem completamente antes de montar.
+10. Para montar, espalhe uma colher generosa de anko no lado liso de um disco e cubra com outro disco, lado liso para dentro, formando um "sanduíche".
+
+## Dicas
+- O segredo da textura fofinha é não bater demais a massa depois de adicionar a farinha.
+- Os dorayakis podem ser guardados em recipiente fechado por até 2 dias; o recheio de anko também aceita congelamento.
+- Para variar, experimente recheios como creme de matcha, chantilly ou geleia de morango.
+
+## Curiosidade
+Dorayaki é o doce favorito do personagem Doraemon, do anime japonês homônimo.
