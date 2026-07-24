@@ -1,5 +1,18 @@
-<!-- Página inicial do projeto -->
-<h1>Página Colaborativa de Receitas</h1>
+# 🍊 Bolo de Laranja Fofinho e Molhadinho
+
+Uma receita simples, rápida e perfeita para o café da tarde!
+
+---
+
+## 🛒 Ingredientes
+
+### Massa:
+* 3 laranjas médias (sem casca, sem sementes e sem a parte branca do meio)
+* 3 ovos inteiros
+* 1/2 xícara de óleo vegetal
+* 2 xícaras de açúcar
+* 2 xícaras de farinha de trigo
+* 1 colher de sopa de fermento em pó
 
 ### Calda (Opcional):
 * Suco de 2 laranjas
@@ -24,4 +37,4 @@
 
 ---
 
-> 💡 **Dica:** Ao descascar a laranja, retire bem a parte branca central (o miolo) para garantir que o bolo não fique amargo!^C
+> 💡 **Dica:** Ao descascar a laranja, retire bem a parte branca central (o miolo) para garantir que o bolo não fique amargo!
